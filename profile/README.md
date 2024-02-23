@@ -1,4 +1,4 @@
-## The Department of Statistics at Lund University
+## Welcome!
 
 Welcome to the organization page for the Department of Statistics at Lund University.
 Here you can find material related to courses, workshops, and seminars that we
